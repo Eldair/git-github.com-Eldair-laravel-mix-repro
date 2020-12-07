@@ -1,4 +1,8 @@
-$fa-font-path: "../webfonts";
+// works in yarn run production
+$fa-font-path: "../fontawesome/webfonts";
+
+// works in yarn run watch
+// $fa-font-path: "../webfonts";
 
 @import "../fontawesome/scss/regular";
 @import "../fontawesome/scss/fontawesome";
