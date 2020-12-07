@@ -1,0 +1,18 @@
+abacus:
+  changes:
+    - 5.3.0
+  label: Abacus
+  search:
+    terms:
+      - addition
+      - ancient
+      - arithmetic
+      - calculator
+      - counting
+      - hexadecimal
+      - math
+      - subtraction
+  styles:
+    - regular
+  unicode: f640
+  voted: false
